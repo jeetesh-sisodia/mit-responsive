@@ -1,0 +1,130 @@
+Unbound
+Social textbooks for an open education. 
+Nikhil Marathe, Pranav Deshpande, Shweta Shinde
+
+NOTE-i-fy
+A mobile tool for sharing, assigning, and managing tasks during live events. 
+Ankit Daferty, Sunny Mahajan, Pallavi Moghe
+
+Media Wave
+Share pictures from live sporting events and use a timeline of all pictures taken at the event to remember all the highlights.
+Akash Shetye, Abhijit Kane, Mihir Kulkarni, Apurva Deshpande
+
+RickshawHelper
+A web-based app which helps tourists to convey their destination to the rickshaw driver in the local language, as well as be aware of the route and approximate fare for the journey.
+Rohan Prabhu, Janhavi Digraskar, Bargav Golla
+
+AlertNet
+A smart network of security guards enabled by retrofitting the chowkidar’s stick with sensors.
+Harshal Jain, Shweta Verma, Shilpan Bhagat, Rasagy Sharma
+
+GameStat
+A mobile assistant for a football coach to help better train players and perform accurate post-match analysis.
+Kishan Patel, Siddharth Kothari, Nishith, Rastogi
+
+MedAlert
+Be the first to know about epidemic alerts.
+Manoj Manduva, Prerak Mehta, Pavitra Shetty, Chetan Deshpande
+
+Maplets
+Better navigation through better neighborhoods. Better neighborhoods from local landmarks.
+Samiksha Kothari, Sai Gokul K, Prashant Kumar
+
+Busy Time Storyteller 
+Lullaby pillow that creates a comfortable environment around the child by playing a patting pattern created by the mother through a mobile device while she herself is not around.
+Jyotirmaya Mahapatra, Shashank Kapadia,Varun Srinivas, Dhiraj Kasar, Nilay Haryal
+
+En SONG
+EnSONG is a device which senses the mood of the people in the room intelligently and changes teh ambient light and music of the room to suit the mood of the audience
+Akshay Agarwal, Apoorv Parle, Diksha Kini, Arnab Chakravarty
+
+Music Maker
+The music maker gives a background music to  songs while you sing them. Perfect for bathroom singers and for those who sing for themselves! ? FIND YOUR SONG!
+Abhijeet  Chirde, Amit Sawant, Khushboo Tekchandani, Maithili  Korde
+
+Bazinga
+An innovative application generating a melody based on geographical locations of the registered band members.
+Achintya Prakash, Nachiket Mujumdar, Nishank Varshney, Shilpa Agrawal
+
+AudioTouch
+A device which, when placed under the page of Braille text, reads out the words and adds relevant contextual sounds to complement the reading experience.
+Shreevallabh Gharote, Arpit Bhayani, Chaitanya Patil, Toshal Mokadam, Mayank Sanganeria.
+
+CommuniMOtion
+Movements have been an important part of media, percolating information through centuries. CommuniMOtion aims at communicating motion and not just their notions!
+Haripriya, Sreeta, Ujwal, Dnyaneshwar, Iman
+
+Storyspinners
+How would it be if otherwise inanimate objects of daily life could tell interesting narratives?
+Nidhi Jalwal, Paulomi Roychoudhary, Kapil Sharma, Pragun Goyal, Hashim Khan.
+
+Wallimations!
+Wallimation is a simple and fun way to bring your imagination to life. To  make collaborative stories and  see them play in real time.
+Shashank, Namrata, Aniket, Sanket, Swati
+
+OCCUPANCY DETECTOR
+How can you capture a high resolution image with a single pixel sensor.
+Abhishek Ambede, Karun Jacob, Shilpa Nagde, Snehal Ullagaddi, Varad Deshmukh
+
+SINGLE PIXEL CAMERA
+How can you capture a high resolution image with a single pixel sensor.
+Ankit Dav, Haras Jeelani, Dheeraj Oswal
+
+MINDSPACE
+A KINECT based 3D Interactive display
+Kaushal Jain, Manav Kataria, Shakti Tripathy, 
+Sanya Salim Shaikh, Snehal Ullagaddi
+
+VIRTUAL TOUCH
+Making an interactive screen for playing ping pong with just any screen with help of projector and web cam.
+Rohan Saravade, Harshal Charhate, Meetal Bhamre, Pooja Rangarajan
+
+BARRIERLESS COMMUNICATION
+Gesture-to-speech for communicating with the acoustically challenged
+Neha Karnad, Manjiri Katmore, Chinmaya Joshi, Surashree Rahane
+
+LOOKING THROUGH FOLIAGE
+Multi-view light field camera gantry system.
+Ambrose Birani, Mukul Joshi, Deepak Kadam, Anagha Yadav, Surashree  Rajendra Yadav
+
+HANDROID
+A Hand drawn circuit identifier and simulator
+Ishan Kute, Tanmay Shah, Praniti Shettiwar, Anuva Kulkarni, Sumeet Nisale
+
+HEAD TO WHEEL
+Control a wheelchair using the gesture of your head.
+At high speed, the center of gravity gets lowered to provide stability.
+Obstacle detection. System switches to auto-control mode.
+Gaurav Patekar, Sanket Belsare, Ravi Agarwal, 
+Jaineet Purohit, Rajeev Rajeshuni
+
+Extendable Gripper
+It is an extendable prosthetic arm which provides a firm grip especially for people with cerebral palsy or the handicapped.
+Manasvi Tickoo, Parth Patel, Sagar Jadhav, Renuka Sapkal, Prachi Patil
+
+KEYS2DOTS
+ It is a low cost, portable Braille printer which takes input from keyboard and prints the same in Braille language on the paper.
+Adwait Kale, Anant Shinde, Darsh Shah, Nitin Bagul and Saurabh Dighe
+
+sit – any - wear
+Most of our conversations happen lesser in the classroom/office and more in the corridors . So why not be able to sit wherever you are? (ofcourse not blocking others’ way in due time)
+Tejas Inamdar, Anuya Ghanekar,Rahul Khanolkar, Abhishek Chaudhary, Anantha C P
+
+Assistive Device For Visually Impaired
+ Image is converted into corresponding sound using     real time image processing
+ Frequency of sound a Size of object
+ Amplitude of sound a Distance of object
+ Belt fitted with vibrators to assist in navigation
+  Magnetic compass is used to orient and guide
+
+‘Le Chal’ 
+The project aims at creating a haptic feedback based shoe that gives vibrational feedback to the visually impaired user. We look at the ergonomic aspects and analyze how wearable computing solves the problem.
+Anirudh Sharma,CM Yogisha, Dushyant Mehta, Madhura Gurjar , Ninad Phadke
+
+Walking Stick for the Visually Impaired
+The walking stick is fitted with an ultrasonic sensor so that an obstacle can be detected and the user gets a audio feedback.
+Gopinath Mahale, Priyank Shah, Rohan Pandit, Sameer Patil, Rohan Garibe.
+
+
+
+

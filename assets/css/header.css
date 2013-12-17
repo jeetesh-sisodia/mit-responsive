@@ -1,0 +1,49 @@
+.header_bar{
+ 	background-color:orange;height:1%;top:100px;height:5px;
+ 	width: 100%; 	
+ }
+.logo{
+	color: black;
+	text-align: left;
+}
+.header_bg_color_height{
+  background-color: #FFFFFF;
+  /*background-color: #A08C73;*/
+  /*background-color: #F6EEDB;*/
+	/*background-color: #40403D;*/
+}
+.header_height{
+  padding-top: 1%;
+}
+
+ .img_name
+ {
+  text-align: right;
+ }
+
+  .tabs:hover
+       {
+               background-color:orange ;
+       }
+
+/*       .bg_img{
+        background-image: url('../img/bg-sponsorship.jpg');
+       }*/
+       
+ /*.top_img{
+ 	width:100%;
+ 	margin-top:-9px;
+ }*/
+ .img_logo
+ {
+ 	padding-top: 3%;
+ 	/*width: 100%;*/
+ }
+
+ .nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  background-color: #40403D;
+  border-color: #428bca;
+    background: transparent;
+}

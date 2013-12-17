@@ -1,0 +1,48 @@
+/* CSS Document */
+*{padding:0; margin:0;}
+#main {width:790px; border:1px solid #CCCCCC; overflow:hidden; margin:0 auto; -moz-border-radius: 5px;
+-webkit-border-radius: 5px; padding:30px; margin-top:30px; }
+#main h3 {font-family:'Droid Sans', arial; font-weight:bold; font-size:50px; letter-spacing:-2px; text-shadow:1px 2px 2px #999; padding:0 8px;}
+#main p {font-family:Georgia, arial; font-size:16px; background:#ececec;-moz-border-radius: 5px;
+-webkit-border-radius: 5px; padding:20px;  border:1px solid #d2d2d2; clear:both; margin:25px 8px;  text-shadow:0 1px 1px #fff; }
+#main a {float:right; font-family:Georgia; font-size:16px; text-decoration:none; color:#990000; position:relative; left:-20px; padding:25px 0 0 0;}
+
+
+.img-grid ul {padding:0; margin:0;
+    width: 100%;
+	height:237px;}
+.img-grid ul li {
+	float:left; 
+	list-style:none; 
+	padding:10px; 
+	margin:0px; 
+	line-height:10px;
+	display: table-cell;
+	display:block; 
+	overflow:hidden; 
+	border:1px solid #d2d2d2;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background: #ececec;
+	}
+
+@media (min-width: 1200px) {
+
+   .img-grid ul li {
+   	width: 25%;
+	}
+}
+@media (max-width: 1190px) {
+
+   .img-grid ul li {
+   	width: 25%;
+	}
+}
+-webkit-border-radius: 5px; background:#ececec;}
+/*dynamically added*/
+
+
+
+
+
+

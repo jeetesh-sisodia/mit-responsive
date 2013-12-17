@@ -1,0 +1,177 @@
+body{
+	background-color: #FAF8F7;
+	background-size: 100% 100%;
+}
+.track_img{
+	width:200px;
+	height: 200px;
+}
+.track_title_img{
+				color:gray;
+				font-family:MuseoSlab;
+			}
+.sponsor_subcontent
+{
+	text-align: center;
+	padding-top: 5%;
+}
+.sponsor_content
+{
+	text-align: center;
+	padding-top: 15%;
+}
+
+.parnership_content
+{
+	padding-top: 4%;
+	height:100%;
+}
+.parnership_content_left
+{
+	/*padding-top: 4%;*/
+	border-right:1px solid orange;
+	height:100%;
+}
+
+.parnership_content_left
+{
+	/*padding-top: 4%;*/
+	height:100%;
+}
+
+.img-hand {
+    border: 5px solid rgb(223, 223, 237);
+    border-radius: 8px;
+}
+h3.orange_labels
+{
+	background:orange; color:#FFF;	
+	padding: 2px;
+}
+.status_red
+{
+ color:#cc0000;
+}
+
+.footer-pad
+{
+	height:150px;
+	width:100%;
+}
+
+.padd{
+	height: 26px;
+}
+
+.content_slider
+{
+	padding-top:20px;
+}
+
+/* on project_pune.php */
+
+		.boxgrid{    
+				background:#161613; 
+				overflow: hidden; 
+				position: relative; 
+				height:210px;
+			}
+				.boxgrid img{  
+					top: 0; 
+					left: 0; 
+					height: 100%;
+					width: 100%;
+				}
+				.boxcaption h4
+				{
+					color:white;
+				}
+				
+				.boxgrid p{ 
+					padding: 0 10px; 
+					color:white; 
+					font-weight:bold; 
+					font:10pt "Lucida Grande", Arial, sans-serif; 
+				}
+				
+			.boxcaption{ 
+				float: left; 
+				position: absolute; 
+				background: orange; 
+				top:260px;
+				height: 110px; 
+				width: 100%; 
+				opacity: .8; 
+				/* For IE 5-7 */
+				filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+				/* For IE 8 */
+				-MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+ 			}
+
+ 			.contab{list-style:none;
+height:100%;}
+.consubtab{
+	height:5%;
+	padding-bottom: 1%;
+}	
+
+
+p.color_gray{
+	color:#acacac;
+}
+
+
+/* track_pune.php */
+
+.track p
+{
+	color:gray;
+}	
+hr{
+margin:0px 0px 10px 0px !important;
+}
+.track img
+{
+	border:1px solid #d2d2d2;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding:10px; 
+	background:#ececec;
+}
+
+
+/* footer css */
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by it's height */
+  margin: 0 auto -60px;
+}
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+  height: 60px;
+}
+#footer {
+  background-color: #eee;
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+#footer {
+  margin-left: -20px;
+  margin-right: -20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+}
+
+/*  footer css ends */

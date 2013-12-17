@@ -1,0 +1,24 @@
+.footer_bg_height{
+			/*background-image: url('../img/bg-sponsorship.jpg');*/
+			background-color: #FFFFFF;
+			/*background-color: #A08C73;*/
+			/*background-color: #F6EEDB;*/
+			/*background-color: #40403D;*/
+			width:100%;
+		}
+		.mail{
+			 width: 35px;
+			 padding-top: 2%
+		}
+		.fb{
+			 width: 35px;
+			 padding-top: 2%			 
+		}
+		.rights{
+			 font-size:10px;			 
+			 color:#000000;
+		}
+
+/*.footer_img{
+	height: 1%;
+}*/

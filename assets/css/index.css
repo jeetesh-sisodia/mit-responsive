@@ -1,0 +1,90 @@
+
+.carousel{
+    margin-top: 0px;
+}
+.carousel-control{
+  top: 50%;
+}
+.bs-example{
+  margin: 20px;
+}
+
+@font-face {
+  font-family: "MuseoSlab";
+  src: url("../fonts/MuseoSlab/MuseoSlab100.otf");
+  }
+  @font-face {
+  font-family: "MuseoSans";
+  src: url("../fonts/MuseoSans/MuseoSansRounded-100.otf");
+  }
+
+.item {
+      /*background: #FFFFFF;*/
+      color:#000000;
+      background: transparent;
+      min-height: 400px;
+}
+
+div.orange_strip
+{
+    height:5px;width:100%;
+    background-color:#F5AA29;
+}
+
+.bg_img
+{
+  background-image: url('../img/paralax-blue-3.jpg');
+  background-size:100% 100%;
+
+  /*background-image: url('../img/indexbg.jpg');
+  background-size:100% 100%;
+*/
+ /* background-color: #7A7776;
+  background-size:100% 100%;*/
+}
+
+.item a.heading
+{
+    font-family: MuseoSlab;
+    font-weight: normal;
+    color:#FFF;
+    line-height: 25px;
+}
+
+a.heading h3
+{
+   font-family: MuseoSlab;
+}
+
+.item .slide_heading
+{
+    padding:10px;
+    cursor: pointer;
+}
+
+.item .slide_heading h3
+{
+    color:#FFF;
+}
+
+
+.item .slide_content
+{
+    padding:10px;
+    font-family: MuseoSans;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.item .slide_link
+{
+    padding-bottom: 10px;
+}
+.item .slide_link a
+{
+     padding-left:10px;
+    font-family: MuseoSans;
+    text-align: justify;
+    font-size: 15px;
+    color:#FFF;
+}

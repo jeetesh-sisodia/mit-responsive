@@ -1,0 +1,219 @@
+TRACK - LIVING MOBILE		- Andrea Colaço, Drew Harry
+==========================
+
+CITIZEN PROBLEM LOGGING
+An on the go problem reporting portal.
+Abhay Agarwal, Omkar Gawde, Anupam Pandey
+
+
+CONNECTING LIVES
+System to connect nearest blood donors & people who need blood using social media.
+Harshal Shinde, Piyush Aggrawal, Abhijay Patne
+
+
+Systematic Evacuation Navigation System
+An automated system to guide people to safe exits during a fire emergency.
+Rajat Kuthiala, Akash Saxena, Fizza Jaffer
+
+
+FAST FUELS
+An SMS-based system to help decide which nearby petrol station to choose.
+Anil Krishna Shaw, Surashree Rahane, Arjun Singh
+
+
+HOOT-O-MANIA
+Engaging the stadium audience in the real-time game experience
+Gaurav Shukla, Smita Verma,
+Surbhi Gupta, Aprajita Chaudhary
+
+
+LINKER
+The project is a system for crowded places like fair to alarm parents when their children move out of the safety zone.
+Chaitanya Saxena, Kadambari Sahu, Akshay Sing
+
+
+FEED LOOP
+Effective collaboration with seamless sharing and floating around of ideas, presence and location on mobile device.
+Ishan Aggarwal, Ravi Sethia, Amol Bagul
+
+
+POOL BUDDIEZ
+Share journey, make friends and reduce traffic.
+Ankur Anand, Isha Rishi,Rishabh Sardana, Sandip Chauhan
+
+SHIKSHA
+Reinforcing education by enabling collaborative interaction between rural and urban students.
+Vishal Dugar, Agam Dua, Swasti Bhatia
+
+
+SOCIAL BAZAAR
+An on the go platform to shop with your social circle.
+Snehil Khanor, Chitesh Tewani, Somay Jain
+
+
+
+======================
+DESIGNING FOR INTERACTION	- Santiago Alfaro, Amit Zoran
+======================
+
+BUD-DY
+An interactive therapeutic device for dyslexic children.
+Uttam Grandhi, Adil , Toshit, Giny
+
+
+NO PARKING
+Smith Petrus, Aditya Sharma, Akhil Mittal
+
+
+UMANG
+An interactive photo album along with a smell emitter
+Deepti Aggarwal, Tunisha Sharma, Umit Shah
+
+
+INGREDIENT CHEF
+An automatic condiment dispenser to support easy cooking.
+Abhishek Kumar, Nitin Sarna, Sakshi Gupta, Tanmay Shah
+
+
+SMART SWITCH
+Redesign of a conventional switchboard to make it more interactive and intuitive to use.
+Gaurav Patekar, Pranabjyoti Kalita, Anchal Srivastava 
+
+
+SUPER BIN
+Making dustbins interactive and attractive.
+Mohit Sharma, Vaibhav Kapoor, Sagar Bhokre, Imankalyan Mukherjee, Manav Kataria
+
+
+THE DOORS
+Making the door an interactive object so to mediate communication through the door.
+Abhinav Asati, Chayan Deb, Rohan Thapar
+
+
+KEY GROUPS
+Getting the key right the first time.
+Alisha Sharma, Jalaj Tagra, Abhishek Bharatiya, Aditya Bhatnagar
+
+
+========================
+IMAGING ON STEROIDS	- Kshitij Marwah, Anirudh Sharma
+========================
+
+AIR DJ
+“Air DJ” is all about playing and controlling music using gestures. 
+Dhananjay Shrouty, Shivani Poddar, Shahbaz Maniyar, Aadil Rafiq
+
+
+GAMER FACE
+Tracks the facial movements and syncs the game controls accordingly.
+Kushagra Alankar, Shivansh Singh Gautam, Ambika Parashar, Sagar Aher
+
+
+KODAK MOMENT
+Our system automatically selects the best image of each individual and merges them all together.
+Abhishek Bharadwaj, Arjun Varshney, Nishant Rao, Saksham Chopra
+
+
+K SCAN
+Kscan lets you store objects, memories, and visualizations in 3D.
+Nikhil Joshi, Sandeep Hooda, Kuldeep Mehta, Akhil Mittal
+
+
+PROXIMAL DISPLAYS
+A proximity based display which adapts the presentation based on viewer distance
+Gaurav Gupta, Arpit Srivastava, Vishal Goel, Siddharth
+
+
+SPOT WATCHER
+An automatic spot lighting system that tracks motion and follows the target.
+Saniya Sheikh, Utsav Kumar, Qazi Zaid, Rakesh Pimplikar
+
+
+VISIBELT
+a visual system which alerts or notifies the user from any incoming danger from an area of blindsight using a camera
+Ateendra Kumar Singh, Amit Shah, Dhiraj Choudhary, Pallavi Behal
+
+
+========================
+SENSOR MEDIATED ENVIRONMENTS	- Nan-wei Gong, Nan Zhao
+========================
+
+D-R-UMMY
+A drum-kit, minus the drums! 
+Akshat Khandelwal, Divyang Gupta, Prateek Anand, Vivek Nhattuvetty
+
+
+DRISHTI
+An electronic glove that helps blind people read any book.
+Nipun Jindal, Divyesh Gupta, Disha Sharat, Neeraj Taneja
+
+
+SHMEC VEHICLE
+A smart handy multipurpose electric collapsible Vehicle
+Shailendra Singh, Din Dayal, Vinita Sharat, Kapil Narwal
+
+
+SMAR-T
+wearable T-shirt that generates visualizations and enables one to express freely through a LED-based interface
+Aronima Dass, Darsh Shah, Sanjit Singh Batra, Suvani Suri
+
+SMART BAT
+
+
+SMART STAIRS
+sensing system to turn lights on exactly where you’re walking
+Ruchika Bhardwaj, Ravinder Kumar Bind, Deepti Thakral
+
+
+SMART STREET
+Smart street light system saves energy from street lights on highways by dimming them when they are not in use.
+Gaurav Garg, Ankush Khajuria, Yashika Thaper, Shaheen Arpit
+
+
+SPHERO
+A virtual sphere around you to help you track the things you care about and carry along
+Sagar Mohite, Kunal Gupta, Nishank Varshney, Sonal Khanna, Vivek Anand
+
+
+----
+The device will actuate an alert signal when sense a moving object with in proximity.
+Alka Arora, Ekta Bhayana, Parikshit Vasisht, Sudhakar Ranjan
+
+
+========================
+DESIGN FOR SUSTAINABILITY - Dennis Jiang, Pragun Goyal
+========================
+
+HEART GUARD
+a band which shows fluctuation in blood pressure in real time and alerts the patient about the rise or drop in blood pressure.
+Sanya Wadhwa, Shilpy Lath, Palak Dudani, Avinash Sharma
+
+
+KARTAVYA
+waste collection system for residences using underground pipes to sort and collect  garbage.
+Brahmleen Singh Arora, Sakshi Kapoor, Agreeka Saxena, Ranjit Singh
+
+
+RECYCLED SLINK
+reclaimed wood furniture gives a feeling of relaxation and comfort with country home style and antique fashion
+Nadeem Akhtar Siddiqui, Vasudha Saklani, Prachi Nagpal, Sakshi Verma
+
+
+EASY ONE
+Power to control all your devices finally in your hand
+Pallav Agrawal, Sneha Joshi, Saurabh Kapoor, Ankit Agarwal
+
+
+POWER CUFF
+A self-defense gadget in the form of a cuff, designed especially for women.
+Avernita Srivastava, Dibyendu Tripathi, Manmeet, Shikha Osan
+
+
+SENSIBLE VISION
+Helps blind people read and write in an easy way
+Sonu Dahiya, Dhruv Pratap Singh, Gursimran Singh Saini
+
+
+XTRA
+For on-bed laptop users, defining the new ways of lapping on the bed
+Ishita Duggal, Saroj Gupta, Vivek Singh, Mayank Verma

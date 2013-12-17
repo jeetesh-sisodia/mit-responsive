@@ -1,0 +1,28 @@
+TRACK - MOBILE ECOSYSTEMS		- Sujoy Kumar Chowdhury, Amy Canham
+==========================
+
+messE
+
+Convenient meal cancellation facility for hostel students to reduce 
+food wastage & distribution of excess food through NGOs 
+
+Mannu Amrit, Naman Govil, Jeel Jasani, Hari Krishna Prabhu
+
+
+
+Easy WeighIn
+
+Helps you stay within the luggage limit of airlines while packing
+
+Bhawna Agarwal, Harish Kumar, Saumya Pathak, Shiv Raj
+
+
+
+Fair Fare
+
+Connect to the auto drivers in your vicinity
+and get the best fare for your ride
+
+Minal Jain, Prateek Sachdev, Arun Kumar K, Satvik Jagannath
+
+
