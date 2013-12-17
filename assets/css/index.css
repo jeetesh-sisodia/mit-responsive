@@ -18,6 +18,26 @@
   src: url("../fonts/MuseoSans/MuseoSansRounded-100.otf");
   }
 
+  h5.indexpage_text
+  {
+      font-weight: bold;
+      font-family: Arial;
+  }
+
+h5.indexpage_text_bgcolor
+  {
+      font-weight: bolder;
+      padding: 7px;
+      font-family: Arial;
+      text-decoration: none;
+      background-color: #FFA500;
+      border-radius: 5px;
+      max-width: 50%;
+      color:#FFF;
+
+  }
+
+
 .item {
       /*background: #FFFFFF;*/
       color:#000000;

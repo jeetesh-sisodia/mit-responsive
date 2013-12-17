@@ -8,7 +8,14 @@
     <div class="row">
 	<div class="col-lg-2"></div>
 	<div class="col-lg-4">
-			<a href="di14.php"><img src="assets/img/Apply.png" class="img-responsive" with="100%"/></a>
+			<center><a href="di14.php"><img src="content/di14/slideshow/1.png" class="img-responsive" with="100%"/></a></center>
+            <center><h5 class="indexpage_text">COME AND INNOVATE WITH THE MEDIA LAB</h5><center>
+                <center><h5 class="indexpage_text">at</h5><center>
+            <center><h5 class="indexpage_text">4<sup>th</sup> DESIGN INNOVATION WORKSHOP</h5><center>
+            <center><h5 class="indexpage_text"> WESCHOOL , MUMBAI , 2014</h5><center>
+            <a href="di14.php" style="text-decoration:none;" class="click_apply" target="_blank"><center><h5 class="indexpage_text_bgcolor">CLICK HERE TO APPLY</h5><center></a>
+            <center><h5 class="indexpage_text"> Also Apply to the MIT Health Tech Workshop at</h5><center>
+            <center><h5 class="indexpage_text"><b> http://india.media.mit.edu/mumbai/health</b></h5><center>
 	</div>
 	<div class="col-lg-4">
     <div id="myCarousel" class="carousel slide">
@@ -84,9 +91,9 @@ include ("footer.php");
 
 </body>
 <script type="text/javascript" src="assets/js/jquery-1.10.2.min.js"></script>
-<script src="assets/js/bootstrap.js"></script>
 <script type="text/javascript" src="assets/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="assets/js/hover-dropdown.min.js"></script>
+<script src="assets/js/bootstrap.js"></script>
 
 <script>
     $(document).ready(function(){
