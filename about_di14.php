@@ -55,17 +55,13 @@
         </div>
      </div>
 
-     <div class="row">
-        <div class="col-lg-12">
-            <p align="justify" class="color_gray">MIT Media Lab is hosting its fourth Design Innovation Workshop at WeSchool in Mumbai from January 27th to February 1st, 2014. It is a continuation of our mission to enthrall and inspire Indian youth and involve them in designing a better future. This weeklong workshop will involve engaging activities including ideation, design and implementation of prototypes together with MIT Media Lab and local mentors. The workshop will culminate in an exhibition that will be open to visitors from academia, industry and media. The Media Lab culture of research involves working closely with industry and we believe this workshop will offer participants a flavor of how the Media Lab "invents the future".</p>
-        </div>
-     </div>
-
+    
      <div class="row">
   
   <div class="col-lg-12">
    <h3 style="font-family:helvetica;color:#000;">About WeSchool</h3>
    <br/>
+   <p align="justify" class="color_gray">MIT Media Lab is hosting its fourth Design Innovation Workshop at WeSchool in Mumbai from January 27th to February 1st, 2014. It is a continuation of our mission to enthrall and inspire Indian youth and involve them in designing a better future. This weeklong workshop will involve engaging activities including ideation, design and implementation of prototypes together with MIT Media Lab and local mentors. The workshop will culminate in an exhibition that will be open to visitors from academia, industry and media. The Media Lab culture of research involves working closely with industry and we believe this workshop will offer participants a flavor of how the Media Lab "invents the future".</p>
    <p align="justify" class="color_gray">Established in 1977, Prin L N Welingkar Institute of Management Development & Research now known as WeSchool*, is a self-financed business school in India with campuses in Mumbai and Bengaluru. It is governed by the S.P. Mandali Trust, Pune, founded in 1888, that governs 63 educational institutes.</p>
    <p align="justify" class="color_gray">WeSchool's focus is to integrate design thinking and innovation into mainstream Management education. Its reach across communities ranging from Corporate India to Rural India coupled with engagement with international universities across the globe; has helped launch pioneering initiatives and programs. Few of the pioneering postgraduate management programs being in Business Design & Innovation, E-business, Retail, Healthcare, Rural Management, programs for Family Managed businesses and several customized programs for various business sectors.</p>
   </div>

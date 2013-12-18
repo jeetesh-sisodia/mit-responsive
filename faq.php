@@ -260,6 +260,29 @@ The persons in your reference list should be able to validate any information yo
     </div>
   </div>
 
+  <div class="panel panel-info">
+    <div class="panel-heading">
+       <h4 class="panel-title">
+      <a style="text-decoration:none;" class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFifteen">
+        15. What do the registration fees cover?
+      </a>
+    </h4>
+    </div>
+    <div id="collapseFifteen" class="panel-collapse collapse">
+      <div class="panel-body" style="padding-left:10px;">
+        <p align="justify">
+
+          The registration fees covers your accommodation, breakfast, lunch, dinner and snacks for all 6 days of the workshop.
+
+        <ul>
+      <li> Transport will be provided from the workshop venue back to the accommodation.</li>
+        </ul>
+
+    </p>
+      </div>
+    </div>
+  </div>
+
 </div> 
 
 

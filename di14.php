@@ -463,6 +463,12 @@
                                     </tbody>
                                   </table>
 
+                            </div>
+
+                            <div class="form-group">
+                                <label >If you are interested in the MIT Health Tech Workshop please apply at</label>
+                                <br/>
+                                <label><a href="http://india.media.mit.edu/health/mumbai">http://india.media.mit.edu/health/mumbai</a></label>
                             </div> 
 
                              <div class="form-group">
@@ -475,7 +481,7 @@
 
                   <div class="panel panel-info" id="tecnical_helper">
                       <div class="panel-heading">
-                        <h3 class="panel-title" style="cursor:pointer;" id="technical_info">Technical Helper</h3>
+                        <h3 class="panel-title" style="cursor:pointer;" id="technical_info">Research Enabler</h3>
                       </div>
                       <div class="panel-body" id="technical_content">
                           If you are a WeSchool student (seniors and, in some cases, juniors), you can volunteer to help your teammates with technical issues relating to the technical environment and the infrastructure.
