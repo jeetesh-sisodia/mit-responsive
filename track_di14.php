@@ -140,9 +140,11 @@
         </div>
       </div>
 
-     <div class="row">
+     
+      <div class="row">
       <div class="col-lg-12">
-      <h3 style="color:gray;font-family:calibri;">* Also stay tuned for more information on our DIy Health Workshop. Details coming soon!</h3>
+      <h3 style="color:gray;font-family:calibri;"> If you are interested in the MIT Health Tech Workshop please apply at</h3>
+      <h3 style="color:gray;font-family:calibri;"><a href="">http://india.media.mit.edu/health/mumbai </a></h3>
      </div>
      </div>
 
@@ -160,5 +162,3 @@ include ("footer.php");
 <script type="text/javascript" src="assets/js/hover-dropdown.min.js"></script>
 
 </html>
-
-
