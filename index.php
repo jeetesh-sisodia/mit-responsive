@@ -15,7 +15,7 @@
             <center><h5 class="indexpage_text"> WESCHOOL , MUMBAI , 2014</h5><center>
             <a href="di14.php" style="text-decoration:none;" class="click_apply" target="_blank"><center><h5 class="indexpage_text_bgcolor">CLICK HERE TO APPLY</h5><center></a>
             <center><h5 class="indexpage_text"> Also Apply to the MIT Health Tech Workshop at</h5><center>
-            <center><h5 class="indexpage_text"><b> http://india.media.mit.edu/mumbai/health</b></h5><center>
+            <center><a href="http://india.media.mit.edu/health/mumbai" style="color:black" target="_blank">http://india.media.mit.edu/health/mumbai</a><center>
 	</div>
 	<div class="col-lg-4">
     <div id="myCarousel" class="carousel slide">
