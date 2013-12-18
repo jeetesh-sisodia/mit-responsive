@@ -31,7 +31,7 @@
                   <div class="col-lg-8">                      
             <form action="save.php" method="post">
 
-                <h3 class="di14select">Select Type : <input id="radio_stu" type="radio" name="profile_type" value="student"/>Student <input id="radio_com" type="radio" name="profile_type" value="company"/>Company </h3>
+                <h3 class="di14select">Select Type : <input id="radio_stu" type="radio" name="profile_type" value="student" checked/>Student <input id="radio_com" type="radio" name="profile_type" value="company"/>Company </h3>
                 <br/>
                    <div class="panel panel-info">
                       <div class="panel-heading">

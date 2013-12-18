@@ -285,10 +285,6 @@ The persons in your reference list should be able to validate any information yo
 
 </div> 
 
-
-
-
-
 </div>
 </div>
 </div>
